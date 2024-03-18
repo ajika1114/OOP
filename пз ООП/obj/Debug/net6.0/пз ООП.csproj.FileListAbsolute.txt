@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\пз ООП.exe
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\пз ООП.deps.json
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\пз ООП.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\пз ООП.dll
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\ref\пз ООП.dll
+C:\Users\Lenovo\Desktop\Практика\пз ООП\bin\Debug\net6.0\пз ООП.pdb
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.dll
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\ref\пз ООП.dll
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.pdb
+C:\Users\Lenovo\Desktop\Практика\пз ООП\obj\Debug\net6.0\пз ООП.genruntimeconfig.cache
